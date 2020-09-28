@@ -1,0 +1,1 @@
+Put your built react app with index.html in this directory
