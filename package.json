@@ -6,12 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "Xebia",
-    "IT",
-    "Architects"
-  ],
-  "author": "Krupesh@Xebia",
+  "keywords": [],
+  "author": "Krupesh Anadkat",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
